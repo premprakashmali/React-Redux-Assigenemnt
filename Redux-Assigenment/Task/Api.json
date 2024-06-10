@@ -1,0 +1,170 @@
+{
+  "user": [
+    {
+      "id": "1717668247306",
+      "name": "prem prakash mali",
+      "email": "premprakashm110@gmail.com",
+      "password": "prem01",
+      "number": "1321323232",
+      "img": "https://media.istockphoto.com/id/1309328823/photo/headshot-portrait-of-smiling-male-employee-in-office.jpg?b=1&s=612x612&w=0&k=20&c=eU56mZTN4ZXYDJ2SR2DFcQahxEnIl3CiqpP3SOQVbbI=",
+      "status": "Unblock"
+    },
+    {
+      "id": "1717669569254",
+      "name": "prem prakash mali",
+      "email": "premprakashm110@gmail.com",
+      "password": "pr012",
+      "number": "1321323232",
+      "img": "https://media.istockphoto.com/id/1309328823/photo/headshot-portrait-of-smiling-male-employee-in-office.jpg?b=1&s=612x612&w=0&k=20&c=eU56mZTN4ZXYDJ2SR2DFcQahxEnIl3CiqpP3SOQVbbI=",
+      "status": "Unblock"
+    }
+  ],
+  "category": [
+    {
+      "id": "1717663408589",
+      "category": "Apartment",
+      "img": "https://themewagon.github.io/makan/img/icon-apartment.png ",
+      "totalproprty": "123"
+    },
+    {
+      "id": "1717663606599",
+      "category": "Villa",
+      "img": "https://themewagon.github.io/makan/img/icon-villa.png",
+      "totalproprty": "123"
+    },
+    {
+      "id": "1717663641301",
+      "category": "Home ",
+      "img": "https://themewagon.github.io/makan/img/icon-house.png",
+      "totalproprty": "123"
+    },
+    {
+      "id": "1717663681318",
+      "category": "Office",
+      "img": "https://themewagon.github.io/makan/img/icon-housing.png",
+      "totalproprty": "123"
+    },
+    {
+      "id": "1717663713715",
+      "category": "Building",
+      "img": "https://themewagon.github.io/makan/img/icon-building.png",
+      "totalproprty": "123"
+    },
+    {
+      "id": "1717663769120",
+      "category": "Townhouse",
+      "img": "https://themewagon.github.io/makan/img/icon-neighborhood.png",
+      "totalproprty": "123"
+    },
+    {
+      "id": "1717663791898",
+      "category": "Shop",
+      "img": "https://themewagon.github.io/makan/img/icon-condominium.png",
+      "totalproprty": "123"
+    },
+    {
+      "id": "1717663833648",
+      "category": "Garage",
+      "img": "https://themewagon.github.io/makan/img/icon-luxury.png",
+      "totalproprty": "212"
+    }
+  ],
+  "property": [
+    {
+      "id": "1717744631048",
+      "cate_id": "1717663408589",
+      "cate_name":"Apartment",
+      "Price": "12345",
+      "houes_name": "Golden Urban House For Sell",
+      "location": "123 Street, New York, USA",
+      "sqft": "1000 Sqft",
+      "Bed": "3",
+      "Bath": "2",
+      "img": "https://themewagon.github.io/makan/img/property-1.jpg"
+    },
+    {
+      "id": "1717744741448",
+      "cate_id": "1717663606599",
+      "cate_name":"Villa",
+      "Price": "12345",
+      "houes_name": "Farmhouse Urban House For Sell",
+      "location": "123 Street, New York, USA",
+      "sqft": "1000 Sqft",
+      "Bed": "3",
+      "Bath": "1",
+      "img": "https://themewagon.github.io/makan/img/property-2.jpg"
+    },
+    {
+      "id": "1717744865336",
+      "cate_id": "1717663641301",
+      "cate_name":"Home",
+      "Price": "12345",
+      "houes_name": "Penthouse Urban House For Sell",
+      "location": "123 Street, New York, USA",
+      "sqft": "1000 Sqft",
+      "Bed": "1",
+      "Bath": "3",
+      "img": "https://themewagon.github.io/makan/img/property-5.jpg"
+    },
+    {
+      "id": "1717745044661",
+      "cate_id": "1717663681318",
+      "cate_name":"Office",
+      "Price": "12345",
+      "houes_name": "Palace Urban House For Sell",
+      "location": "123 Street, New York, USA",
+      "sqft": "1000 Sqft",
+      "Bed": "1",
+      "Bath": "3",
+      "img": "https://themewagon.github.io/makan/img/property-3.jpg"
+    },
+    {
+      "id": "1717745108426",
+      "cate_id": "1717663713715",
+      "cate_name":"Building",
+      "Price": "12345",
+      "houes_name": "Tree House Urban House For Sell",
+      "location": "123 Street, New York, USA",
+      "sqft": "1000 Sqft",
+      "Bed": "1",
+      "Bath": "3",
+      "img": "https://themewagon.github.io/makan/img/property-4.jpg"
+    },
+    {
+      "id": "1717745309707",
+      "cate_id": "1717663769120",
+      "cate_name":"Townhoes",
+      "Price": "12345",
+      "houes_name": "Lighthouse Urban House For Sell",
+      "location": "123 Street, New York, USA",
+      "sqft": "1000 Sqft",
+      "Bed": "1",
+      "Bath": "3",
+      "img": "https://i.pinimg.com/564x/6e/63/f3/6e63f3022adec21317c45541e7709f5a.jpg"
+    },
+    {
+      "id": "1717745370059",
+      "cate_id": "1717663791898",
+      "cate_name":"Shop",
+      "Price": "12345",
+      "houes_name": "Igloo Urban House For Sell",
+      "location": "123 Street, New York, USA",
+      "sqft": "1000 Sqft",
+      "Bed": "1",
+      "Bath": "3",
+      "img": "https://themewagon.github.io/makan/img/property-6.jpg"
+    },
+    {
+      "id": "1717745436340",
+      "cate_id": "1717663833648",
+      "cate_name":"garage",
+      "Price": "12345",
+      "houes_name": "Golden Urban House For Sell",
+      "location": "123 Street, New York, USA",
+      "sqft": "1000 Sqft",
+      "Bed": "1",
+      "Bath": "3",
+      "img": "https://i.pinimg.com/564x/f8/28/82/f82882e83a3699c993ad372467b0a8ef.jpg"
+    }
+  ]
+}
